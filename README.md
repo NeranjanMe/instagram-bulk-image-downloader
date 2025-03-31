@@ -34,4 +34,8 @@ A powerful, GUI-based Python application to **download, crop, convert, and compr
 ```bash
 pip install instaloader pillow requests
 
-![GUI Preview]([https://i.imgur.com/yourImageID.png](https://github.com/NeranjanMe/instagram-bulk-image-downloader/blob/main/Screenshot.png))
+## 🖼️ GUI Preview
+
+Below is a screenshot of the user-friendly interface:
+
+![Instagram Bulk Image Downloader GUI](https://github.com/NeranjanMe/instagram-bulk-image-downloader/raw/main/Screenshot.png)
